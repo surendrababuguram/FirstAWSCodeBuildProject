@@ -4,8 +4,8 @@
   "description": "My first project for AWS CodeBuild",
   "main": "index.js",
   "scripts": {
-    "test": "test": "echo \"No tests to run, skipping...\" && exit 0"
-  },
+  "test": "test": "echo \"No tests to run, skipping...\" && exit 0"
+},
   "author": "",
   "license": "ISC",
   "dependencies": {
